@@ -1,4 +1,4 @@
-```shell
+```
 $ cargo c --all-targets
     Checking a v0.1.0 (/tmp/tmp.oxMZ9gYMte/a)
     Checking b v0.1.0 (/tmp/tmp.oxMZ9gYMte/b)
